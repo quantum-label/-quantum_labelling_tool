@@ -1,6 +1,7 @@
 #  <img src="https://github.com/quantum-label/quantum_labelling_tool/blob/main/static/img/quantum_icon.png" width="50" style="vertical-align:middle"> QUANTUM - The Health Data Quality Label
   
 ![Python Version](https://img.shields.io/badge/python-3.11%2B-brightgreen.svg)
+Cite the code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14637282.svg)](https://doi.org/10.5281/zenodo.14637282)
 
 ## Introduction
 
